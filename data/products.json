@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro 15",
+    "category": "electronics",
+    "price": 899.99,
+    "stock": 12,
+    "image": "https://picsum.photos/seed/laptop/400/300",
+    "description": "Laptop de alto rendimiento con procesador Intel Core i7, 16 GB RAM y SSD de 512 GB."
+  },
+  {
+    "id": 2,
+    "name": "Auriculares Inalámbricos",
+    "category": "electronics",
+    "price": 79.99,
+    "stock": 35,
+    "image": "https://picsum.photos/seed/headphones/400/300",
+    "description": "Auriculares Bluetooth con cancelación activa de ruido y hasta 30 horas de batería."
+  },
+  {
+    "id": 3,
+    "name": "Teclado Mecánico RGB",
+    "category": "electronics",
+    "price": 129.99,
+    "stock": 20,
+    "image": "https://picsum.photos/seed/keyboard/400/300",
+    "description": "Teclado mecánico compacto con retroiluminación RGB y switches Cherry MX Red."
+  },
+  {
+    "id": 4,
+    "name": "Mouse Gamer",
+    "category": "electronics",
+    "price": 49.99,
+    "stock": 50,
+    "image": "https://picsum.photos/seed/mouse/400/300",
+    "description": "Mouse óptico de alta precisión con 7 botones programables y DPI ajustable hasta 16 000."
+  },
+  {
+    "id": 5,
+    "name": "Monitor 27\" 4K",
+    "category": "electronics",
+    "price": 499.99,
+    "stock": 8,
+    "image": "https://picsum.photos/seed/monitor/400/300",
+    "description": "Monitor IPS 4K UHD de 27 pulgadas con tiempo de respuesta de 4 ms y panel antirreflejo."
+  },
+  {
+    "id": 6,
+    "name": "Mochila para Laptop",
+    "category": "accessories",
+    "price": 39.99,
+    "stock": 60,
+    "image": "https://picsum.photos/seed/backpack/400/300",
+    "description": "Mochila resistente al agua con compartimiento acolchado para laptop de hasta 15,6 pulgadas."
+  },
+  {
+    "id": 7,
+    "name": "Hub USB-C 7 en 1",
+    "category": "accessories",
+    "price": 34.99,
+    "stock": 45,
+    "image": "https://picsum.photos/seed/hub/400/300",
+    "description": "Hub USB-C con 3 puertos USB-A, HDMI 4K, lector de tarjetas SD y carga rápida PD de 100 W."
+  },
+  {
+    "id": 8,
+    "name": "Silla Ergonómica",
+    "category": "furniture",
+    "price": 349.99,
+    "stock": 5,
+    "image": "https://picsum.photos/seed/chair/400/300",
+    "description": "Silla de oficina ergonómica con soporte lumbar ajustable, reposabrazos en 4D y ruedas silenciosas."
+  }
+]
