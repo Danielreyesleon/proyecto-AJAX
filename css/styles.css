@@ -9,6 +9,7 @@
   --primary:   #2563eb;
   --primary-dark: #1d4ed8;
   --accent:    #f59e0b;
+  --accent-dark: #d97706;
   --danger:    #ef4444;
   --success:   #22c55e;
   --bg:        #f1f5f9;
@@ -67,7 +68,7 @@ header h1 span {
   transition: background var(--transition), transform var(--transition);
 }
 
-#cart-btn:hover { background: #d97706; transform: scale(1.04); }
+#cart-btn:hover { background: var(--accent-dark); transform: scale(1.04); }
 
 #cart-count {
   background: var(--danger);
