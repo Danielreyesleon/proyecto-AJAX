@@ -1,0 +1,122 @@
+:root {
+    font-size: 14px;
+}
+h3{
+color: #091a61;
+
+    
+}
+body {
+    background-color: #0f3623;
+}
+p{
+color: #222863;
+
+}
+.logo {
+    text-align: center;
+}
+
+.logo img {
+    width: 100px;
+    max-width: 250px;
+}
+
+.titulo {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo h1 {
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: #2b338c;
+}
+
+.container {
+    box-shadow: 0 0 25px #999999;
+}
+
+.encabezado {
+    background-color: #ffffff;
+}
+
+.cuerpo {
+    background-color: #7280b9;
+    padding: 40px;
+    text-align: justify;
+    border-bottom: 3px solid #9b7816;
+}
+
+.pie-pagina {
+    font-size: 0.9rem;
+    padding: 10px;
+    background-color: #0c8f1b;
+}
+
+li {
+    list-style-type: none;
+    color: #f1f9f5;
+}
+
+.nav li {
+    list-style-type: none;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    margin: 10px 5px 0 5px;
+}
+
+.nav li a {
+    padding: 14px 25px;
+}
+
+.nav-link {
+    background-color: #dddddd;
+    color: #666666;
+}
+
+.nav-link:hover {
+    background-color: #f1f1f1;
+}
+
+.pie-pagina a,
+.pie-pagina a:visited,
+.pie-pagina a:link,
+.pie-pagina {
+    color: rgb(49, 44, 191);
+}
+
+.btn {
+    width: 100%;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+background-color: #2b338c;
+}
+
+.msj {
+    color: rgb(60, 189, 38);
+    font-weight:arial;
+
+}
+
+ul {
+    padding: 0;
+}
+
+.prod_carrito {
+    background-color: #088e4b;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    font-size: 1.1em;
+    padding: 10px;
+    color: #dddddd;
+   
+}
+img{
+ height: 100px;
+ width: 100px;
+
+}
